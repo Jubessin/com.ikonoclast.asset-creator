@@ -4,6 +4,8 @@ AssetCreator
 
 Unity package used in the development of Ikonoclast projects, containing an editor window to facilitate the creation of assets.
 
+[Editor Window](https://github.com/Jubessin/com.ikonoclast.asset-creator/Documentation~/Editor_Window.png)
+
 ## Usage
 
 Implement the `ICreatableAsset` interface on any `ScriptableObject` classes that you wish to create via the AssetCreator.
