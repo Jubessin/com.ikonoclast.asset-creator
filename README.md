@@ -1,10 +1,8 @@
-AssetCreator
-
-## Description
+# AssetCreator
 
 Unity package used in the development of Ikonoclast projects, containing an editor window to facilitate the creation of assets.
 
-[Editor Window](https://github.com/Jubessin/com.ikonoclast.asset-creator/Documentation~/Editor_Window.png)
+![Editor Window](https://github.com/Jubessin/com.ikonoclast.asset-creator/blob/main/Documentation~/Editor_Window.png)
 
 ## Usage
 
@@ -30,7 +28,7 @@ public class SingleInstanceAsset : ScriptableObject, ICreatableAsset, ISingleIns
 
 ```
 
-Both the `ICreatableAsset` and `ISingleInstanceAsset` can be found under the `Ikonoclast.Common` namespace.
+Both the `ICreatableAsset` and `ISingleInstanceAsset` can be found in the `Ikonoclast.Common` namespace.
 
 *Note that only non-abstract classes will be visible.*
 
