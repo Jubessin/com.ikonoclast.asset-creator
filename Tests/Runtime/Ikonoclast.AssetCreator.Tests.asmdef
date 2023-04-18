@@ -1,0 +1,16 @@
+{
+    "name": "Ikonoclast.AssetCreator.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:152ceb1c85130fd42b4a3980b22bd872"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
